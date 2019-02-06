@@ -1,0 +1,3 @@
+[submodule "libnewicktree"]
+	path = libnewicktree
+	url = https://github.com/cjb/libnewicktree.git
